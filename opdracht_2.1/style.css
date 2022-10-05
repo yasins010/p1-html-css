@@ -1,0 +1,13 @@
+body {background-color: antiquewhite;}
+p {border-style: solid;}
+p {border-color: cornflowerblue;}
+p {border-width: 8px;}
+p {border-color: darkcyan;}
+h1 {border-width: 10px;}
+h1 {border-color: blue;}
+h1 {border-color: aquamarine;}
+h1 {border-style: ridge;}
+button {color: darkturquoise;}
+button {border-style: groove;}
+button {border-width: 3px;}
+button {border-color: turquoise;}
